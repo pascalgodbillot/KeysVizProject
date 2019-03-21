@@ -126,7 +126,7 @@ highlights the links between it and the other characters, and mouseover a link h
 
 * Loïc BETHENCOURT
 * Pascal GODBILLOT 
-* Théo LACOUR
+* Théo LACOUR ([the project is also available here](https://github.com/Tridet/KeysViz))
 
 ## Credits
 
