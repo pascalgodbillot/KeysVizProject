@@ -4,10 +4,11 @@ This repository hosts the KeysViz project motivated by the
 [interactive data visualization class](https://github.com/LyonDataViz/MOS5.5-Dataviz) given by 
 [Romain Vuillemot](https://github.com/romsson), during my last year at École Centrale de Lyon.
 
+The original repository where you can see all my contributions is [here](https://github.com/Tridet/KeysViz).
+
 ## Record your own keystrokes and analyze it
 
-This project aims at creating different D3js visualizations showing insights from personal keyboard strokes data. 
-For this purpose a keylogger has been implemented.
+This project aims at creating different D3js visualizations showing insights from personal keyboard strokes data. For this purpose a keylogger has been implemented.
 
 The project is available [here](https://pascalgodbillot.github.io/KeysVizProject/) and use our personal logs while doing 
 different actions such as writing e-mails or coding in D3.js. We also use 'Les Miserables' and 'The Orient Express' 
@@ -126,7 +127,7 @@ highlights the links between it and the other characters, and mouseover a link h
 
 * Loïc BETHENCOURT
 * Pascal GODBILLOT 
-* Théo LACOUR ([the project is also available here](https://github.com/Tridet/KeysViz))
+* Théo LACOUR
 
 ## Credits
 
